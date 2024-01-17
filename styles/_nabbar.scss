@@ -1,0 +1,11 @@
+.navbar{
+  height: 120px;
+  ul{
+    height: 100%;
+    li{
+      &:hover a{
+        color: var(--white);
+      }
+    }
+  }
+}

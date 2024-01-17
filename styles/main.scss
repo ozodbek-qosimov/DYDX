@@ -1,0 +1,13 @@
+@use "common";
+@use 'typography';
+@use "nabbar";
+@use "content";
+
+
+body{
+	background-color: var(--dark);
+}
+
+.card{
+	width: 300px;
+}
